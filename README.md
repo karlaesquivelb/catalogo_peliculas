@@ -2,7 +2,7 @@
 
 Catalogo de películas es una app Android construida en Flutter. Es un trabajo experimental para LDSW
 
-## Running
+## Inicia
 
 ```bash
 pub get
